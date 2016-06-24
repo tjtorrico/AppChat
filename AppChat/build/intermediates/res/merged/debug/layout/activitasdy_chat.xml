@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Presentacion" >
+	
+    <include 
+        layout="@layout/encabezado_activity_chat"/>"
+
+    <EditText
+        android:id="@+id/etMensajes"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@layout/encabezado_activity_chat"
+        android:inputType="textMultiLine" 
+        android:layout_weight="1">
+    </EditText>
+
+    <EditText
+        android:id="@+id/etMensaje"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="asdas">
+    </EditText>
+    
+    "
+</LinearLayout>

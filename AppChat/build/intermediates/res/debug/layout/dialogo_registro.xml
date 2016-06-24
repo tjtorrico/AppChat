@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Presentacion" 
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvTelefono"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Telefono"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:id="@+id/etTelefono"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvTelefono"
+        android:layout_centerHorizontal="true" />
+    
+   	<Button 
+   	    android:id="@+id/bRegistrarUsuario"
+   	    android:layout_width="wrap_content"
+   	    android:layout_height="wrap_content"
+        android:text="Registrar"
+        android:layout_below="@+id/etTelefono"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout><!-- From: file:/C:/Users/Jose/AndroidStudioProjects/AppChat/AppChat/src/main/res/layout/dialogo_registro.xml -->

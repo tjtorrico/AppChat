@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray"
+    tools:context=".Presentacion" >
+    
+    <ImageView 
+        android:id="@+id/ivFotoPerfil"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"/>
+    
+    <TextView 
+        android:id="@+id/tvNombrePerfil"
+        android:layout_below="@id/ivFotoPerfil"
+        android:layout_alignParentLeft="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nombre"/>
+    
+    <TextView 
+        android:id="@+id/tvTelefonoPerfil"
+        android:layout_below="@id/tvNombrePerfil"
+        android:layout_alignParentLeft="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Telefono"
+        android:layout_marginTop="20dp"/>
+    
+    <Button 
+        android:id="@+id/bCambiarTelefono"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/tvNombrePerfil"
+        android:layout_toRightOf="@id/tvTelefonoPerfil"
+        android:layout_marginLeft="20dp"/>
+    
+    <TextView 
+        android:id="@+id/tvComentarioPerfil"
+        android:layout_below="@id/tvTelefonoPerfil"
+        android:layout_alignParentLeft="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Comentario"
+        android:layout_marginTop="20dp"/>
+    
+     <Button 
+        android:id="@+id/bCabiarComentario"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/tvTelefonoPerfil"
+        android:layout_toRightOf="@id/tvComentarioPerfil"
+        android:layout_marginLeft="20dp"/>
+
+</RelativeLayout>

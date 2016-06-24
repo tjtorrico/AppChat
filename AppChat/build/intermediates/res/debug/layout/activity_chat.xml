@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/carbon"
+    android:orientation="vertical"
+    tools:context=".Presentacion" >
+	
+    <include 
+        layout="@layout/encabezado_activity_chat"/>"
+	<ScrollView 
+	    android:id="@+id/svMensajes"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_below="@layout/encabezado_activity_chat"
+	    android:layout_weight="1">
+	    
+	    <LinearLayout 
+	        android:id="@+id/tMensajes"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent" 
+	        android:orientation="vertical" >
+	        
+	    </LinearLayout>
+	</ScrollView>
+	
+   	<include 
+   	    layout="@layout/pie_activity_chat"/>"
+</LinearLayout><!-- From: file:/C:/Users/Jose/AndroidStudioProjects/AppChat/AppChat/src/main/res/layout/activity_chat.xml -->

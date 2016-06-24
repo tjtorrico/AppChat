@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\build\\intermediates\\res\\merged\\debug\\menu\\chat.xml",
+        "source": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\src\\main\\res\\menu\\chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\build\\intermediates\\res\\merged\\debug\\menu\\configuracion.xml",
+        "source": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\src\\main\\res\\menu\\configuracion.xml"
+    },
+    {
+        "merged": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\build\\intermediates\\res\\merged\\debug\\menu\\contactos.xml",
+        "source": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\src\\main\\res\\menu\\contactos.xml"
+    },
+    {
+        "merged": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\build\\intermediates\\res\\merged\\debug\\menu\\perfil.xml",
+        "source": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\src\\main\\res\\menu\\perfil.xml"
+    }
+]

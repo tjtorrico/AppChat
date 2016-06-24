@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\build\\intermediates\\res\\merged\\debug\\layout\\activitasdy_chat.xml",
+        "source": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\src\\main\\res\\layout\\activitasdy_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\build\\intermediates\\res\\merged\\debug\\layout\\pie_activity_chat.xml",
+        "source": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\src\\main\\res\\layout\\pie_activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\build\\intermediates\\res\\merged\\debug\\layout\\lista_contactos.xml",
+        "source": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\src\\main\\res\\layout\\lista_contactos.xml"
+    },
+    {
+        "merged": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\build\\intermediates\\res\\merged\\debug\\layout\\activity_perfil.xml",
+        "source": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\src\\main\\res\\layout\\activity_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contactos.xml",
+        "source": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\src\\main\\res\\layout\\activity_contactos.xml"
+    },
+    {
+        "merged": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\build\\intermediates\\res\\merged\\debug\\layout\\encabezado_activity_chat.xml",
+        "source": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\src\\main\\res\\layout\\encabezado_activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\build\\intermediates\\res\\merged\\debug\\layout\\dialogo_registro.xml",
+        "source": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\src\\main\\res\\layout\\dialogo_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\build\\intermediates\\res\\merged\\debug\\layout\\activity_presentacion.xml",
+        "source": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\src\\main\\res\\layout\\activity_presentacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\build\\intermediates\\res\\merged\\debug\\layout\\activity_configuracion.xml",
+        "source": "C:\\Users\\TJT\\StudioProjects\\AppChat\\AppChat\\src\\main\\res\\layout\\activity_configuracion.xml"
+    }
+]

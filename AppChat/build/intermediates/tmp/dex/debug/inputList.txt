@@ -1,0 +1,5 @@
+C:\Users\Jose\AndroidStudioProjects\AppChat\AppChat\build\intermediates\classes\debug
+C:\Users\Jose\AndroidStudioProjects\AppChat\AppChat\build\intermediates\pre-dexed\debug\jasypt-1.9.1-fad4ae9308ae437b6cbcf991d3d4f7f4eea0f80a.jar
+C:\Users\Jose\AndroidStudioProjects\AppChat\AppChat\build\intermediates\pre-dexed\debug\gson-2.2.4-9c332cdd52a977b267408f1dea7cd0062232f702.jar
+C:\Users\Jose\AndroidStudioProjects\AppChat\AppChat\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.0.0-jar-with-dependencies-0a73c397fc64d5329c0f2f24eb27bbb39edff684.jar
+C:\Users\Jose\AndroidStudioProjects\AppChat\AppChat\build\intermediates\pre-dexed\debug\android-support-v4-3007a1db9e4405fb19b80cd4e6dbe649898d0f4c.jar
